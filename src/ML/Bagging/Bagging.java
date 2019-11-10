@@ -1,4 +1,4 @@
-package ML.Bagging.DtBagging;
+package ML.Bagging;
 
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
